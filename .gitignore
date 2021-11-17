@@ -1,0 +1,5 @@
+node_modules/
+environment/*
+package-lock.json
+blockchain/cache/*
+blockchain/artifacts/*
